@@ -1,0 +1,13 @@
+# Core numerical stack for similarity and topic scoring
+numpy>=1.24
+scipy>=1.10
+scikit-learn>=1.4
+
+# Neural embedder + topic modeling stack
+sentence-transformers>=2.5
+bertopic>=0.16
+umap-learn>=0.5
+hdbscan>=0.8
+
+# Utilities
+tqdm>=4.66
